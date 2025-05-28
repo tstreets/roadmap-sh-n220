@@ -74,10 +74,31 @@ If I was using the analogy of a human body then HTML would be the skeleton, CSS 
 
 Task 4
 
-Copy and paste the following prompt into an AI tool of your choice then copy and paste the generated JavaScript into the code block below.
+Copy and paste the following prompt into an AI tool of your choice then copy and properly paste the generated JavaScript into the code block below.
 
-```js
-// waiting for code
+Prompt:
+
+> Generate a basic js file with comments for making a modal show when a user clicks a button.
+
+Code Block:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Task 4</title>
+    <style>
+      h2 {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Open Sesame</h2>
+  </body>
+</html>
 ```
 
-Imagine that you are a brain needing to tell the human body how to perform the steps needed to test out this feature on the app. Write an ordered list with the instructions for testing the code above. _**(Do not use AI for this step)**_
+Next, imagine that you are a brain needing to tell the human body how to perform the steps needed to test out this feature on the app. Write an ordered list with the instructions for testing the code above. _**(Do not use AI for this step)**_
+
+**Instructions:**
