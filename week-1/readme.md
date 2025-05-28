@@ -1,9 +1,20 @@
-## Intro to JavaScript
+## Intro to JavaScript (10)
 
-- What is JS
-- History of JS
-- JS Versions
-- How to run JS
+- What is JS (3)
+- History of JS (2)
+- JS Versions (2)
+- How to run JS (3)
+
+## Intro to Version Control (13)
+
+- What is Version Control (3)
+- How does Git work (5)
+- What is GitHub vs Git (5)
+
+## Intro to Markdown (7)
+
+- What is Markdown (3)
+- How to write Markdown (4)
 
 ### Code Search
 
