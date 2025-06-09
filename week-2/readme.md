@@ -34,8 +34,10 @@
 ### Sample Code Project
 
 Quality Control (QC)
+
 Aggriculture
-Crops Quality
+
+[Crops Quality Standards](https://www.ams.usda.gov/sites/default/files/media/Apple_Standards.pdf)
 
 **Prompt:**
 
